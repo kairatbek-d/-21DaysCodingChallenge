@@ -1,6 +1,5 @@
 var MyStack = function() {
   this.q1 = [];
-  this.q2 = [];
 };
 
 /** 
